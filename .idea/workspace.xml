@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5e7863a-aff3-494f-b1c2-ddce9b9ea652" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+    <list default="true" id="d5e7863a-aff3-494f-b1c2-ddce9b9ea652" name="Default Changelist" comment="test .md">
+      <change afterPath="$PROJECT_DIR$/src/JSX/indexClass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JSX/indexFunc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JSX/ping.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JSX/simplestTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JSX/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/props/prop1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/props/prop2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/props/prop3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/props/prop4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/props/prop5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/props/prop6.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +31,14 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="webstorm_project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,10 +51,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/props" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -35,7 +63,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\WebstormProjects\programator_react\src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\WebstormProjects\programator_react\src\props" />
+      <recent name="C:\Users\Student\WebstormProjects\programator_react\src\JSX" />
       <recent name="C:\Users\Student\WebstormProjects\programator_react\src" />
     </key>
   </component>
@@ -66,7 +99,7 @@
       <updated>1579942964168</updated>
       <workItem from="1579942968231" duration="1764000" />
       <workItem from="1579945041905" duration="1130000" />
-      <workItem from="1579946729589" duration="970000" />
+      <workItem from="1579946729589" duration="14590000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1579947542747</created>
@@ -75,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579947542748</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test .md">
+      <created>1579947726998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579947726998</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,13 +123,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="test .md" />
+    <option name="LAST_COMMIT_MESSAGE" value="test .md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="592" y="119" key="CommitChangelistDialog2" timestamp="1579947542104">
+    <state x="592" y="119" key="CommitChangelistDialog2" timestamp="1579947751538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579947542104" />
+    <state x="592" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579947751538" />
     <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1579946650275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -106,5 +147,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579946650275" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579947767970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579947767970" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1579958592511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579958592511" />
   </component>
 </project>
