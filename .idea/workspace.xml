@@ -1,28 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5e7863a-aff3-494f-b1c2-ddce9b9ea652" name="Default Changelist" comment="test .md">
-      <change afterPath="$PROJECT_DIR$/src/JSX/indexClass.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JSX/indexFunc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JSX/ping.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JSX/simplestTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JSX/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/props/prop1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/props/prop2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/props/prop3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/props/prop4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/props/prop5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/props/prop6.js" afterDir="false" />
+    <list default="true" id="d5e7863a-aff3-494f-b1c2-ddce9b9ea652" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/apicons/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apicons/contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/f0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/f1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/f2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/f3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/f4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/f5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/f6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/f6a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lifecycle/mouting/m1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lifecycle/unmouting/um1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lifecycle/updating/u1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lifecycle/updating/u2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routing/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routing/altkom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routing/cia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routing/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routing/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routing/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/propAsFunctionEasySt3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/st1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/st2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/st3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/st4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/st4A_wyniesienie_stanu_na_gore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/st4B_wyniesienie_stanu_innyprzyklad.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +65,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/props" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -63,12 +73,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Student\WebstormProjects\programator_react\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\WebstormProjects\programator_react\src" />
+      <recent name="C:\Users\Student\WebstormProjects\programator_react\src\forms" />
+      <recent name="C:\Users\Student\WebstormProjects\programator_react\src\state" />
       <recent name="C:\Users\Student\WebstormProjects\programator_react\src\props" />
       <recent name="C:\Users\Student\WebstormProjects\programator_react\src\JSX" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Student\WebstormProjects\programator_react\src" />
     </key>
   </component>
@@ -99,7 +111,8 @@
       <updated>1579942964168</updated>
       <workItem from="1579942968231" duration="1764000" />
       <workItem from="1579945041905" duration="1130000" />
-      <workItem from="1579946729589" duration="14590000" />
+      <workItem from="1579946729589" duration="14648000" />
+      <workItem from="1580026223828" duration="19774000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1579947542747</created>
@@ -115,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579947726998</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dzian 1 reacta">
+      <created>1579963572131</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579963572131</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,33 +144,34 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="test .md" />
-    <option name="LAST_COMMIT_MESSAGE" value="test .md" />
+    <MESSAGE value="dzian 1 reacta" />
+    <option name="LAST_COMMIT_MESSAGE" value="dzian 1 reacta" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="592" y="119" key="CommitChangelistDialog2" timestamp="1579947751538">
+    <state x="592" y="119" key="CommitChangelistDialog2" timestamp="1579963571481">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579947751538" />
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1579946650275">
+    <state x="592" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579963571481" />
+    <state width="1899" height="882" key="GridCell.Tab.0.bottom" timestamp="1580043974083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579946650275" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1579946650275">
+    <state width="1899" height="882" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580043974083" />
+    <state width="1899" height="882" key="GridCell.Tab.0.center" timestamp="1580043974083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579946650275" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1579946650274">
+    <state width="1899" height="882" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580043974083" />
+    <state width="1899" height="882" key="GridCell.Tab.0.left" timestamp="1580043974083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579946650274" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1579946650275">
+    <state width="1899" height="882" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580043974083" />
+    <state width="1899" height="882" key="GridCell.Tab.0.right" timestamp="1580043974083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579946650275" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579947767970">
+    <state width="1899" height="882" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580043974083" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579963578510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579947767970" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579963578510" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1579958592511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
