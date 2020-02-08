@@ -19,4 +19,3 @@ export default class Person extends React.Component {
     }
 }
 
-sfdfsdfsdf
