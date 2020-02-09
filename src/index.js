@@ -1,6 +1,6 @@
     import React from "react";
     import ReactDOM from "react-dom";
-    import App from "./apicons/api";
+    import Car from "./props/prop4";
 
-    ReactDOM.render(<App />, document.getElementById("root"));
+    ReactDOM.render(<Car />, document.getElementById("root"));
 
